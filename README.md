@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img width="800px" height="40px" alt="tumblr_7e30904aacea60240cb4fdcec39509f4_5b9a23ad_2048" src="https://github.com/user-attachments/assets/df7b3850-3156-4402-90f8-fa92c55168bb" />
+<img width="800px" height="40px" src="https://github.com/user-attachments/assets/df7b3850-3156-4402-90f8-fa92c55168bb" />
 </p>
 
 <img align="left" width="20" height="20" src="https://github.com/user-attachments/assets/6aa6a43a-6623-4b04-824e-10b872cf5cf7">
@@ -16,4 +16,10 @@ $$\color{#1c3fbe}{\Huge{\textsf{Go tell 'em all. . . the era of Deceit has begun
 $$\color{#3479c6}{\small{\textsf{W2I . C+H and ships are fine unless i'm w/ my partner}}}$$
 <br>
 $$\color{#1c3fbe}{\scriptsize{\textsf{Pssssst read my strawpage}}}$$
+
+***
+<br>
+<p align="center">
+<img width="700px" height="500px" src="https://github.com/user-attachments/assets/1dfdf556-cf26-4285-8acb-c212cc74334a" />
+</p>
 
