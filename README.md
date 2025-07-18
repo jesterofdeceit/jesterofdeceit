@@ -15,7 +15,7 @@ $$\color{#1c3fbe}{\Huge{\textsf{Go tell 'em all. . . the era of Deceit has begun
 ***
 $$\color{#3479c6}{\small{\textsf{W2I . C+H and ships are fine unless i'm w/ my partner}}}$$
 <br>
-$$\color{#1c3fbe}{\scriptsize{\textsf{pssst read my strawpage}}}$$
+$$\color{#1c3fbe}{\scriptsize{\textsf{pssst fellow crk/crob fictionfolk, please int!}}}$$
 
 ***
 <br>
